@@ -2,7 +2,7 @@
 
 Presently, there are a huge number of research papers and projects wherein stock price prediction is given importance to and an innumerable methodologies implemented in doing so. But, a stock exchange is not just about the stock prices over time. An index is formulated for a certain set of stocks which is much more meaningful as these indices are what decide the worth of the stocks that are being invested in. So, how can stock investment be made more significant and strategic? By predicting the index values over a long period of time, and doing so accurately, means that over that same period of time, the risk and returns associated with the predicted stock prices can be calculated which gives a much better understanding of the risk involved in investing in a particular stock over that period of time. Of course, doing so is not as easy as it sounds and just applying basic or advanced machine learning models will not suffice. Even with the implementation of deep learning models, the prediction accuracy and the margin of error associated with it is only achieved to a certain extent. Given this predicament, how can stock index be predicted such that the margin of error is minimized to a great extent and the predicted values can be relied upon by investors? 
 
-|Research Question|:
+|Research Questions|:
 
 1. "To what extent can the BSE(Bombay Stock Exchange) Index be predicted over a long period of time by implementing the prediction stacking method for various machine and deep learning models?"
 
